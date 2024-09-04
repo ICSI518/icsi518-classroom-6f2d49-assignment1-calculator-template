@@ -18,7 +18,7 @@ function subtract(a, b) {
 }
 
 
-Function to divide two numbers
+//Function to divide two numbers
 function divide(a, b) {
    if (b === 0) {
      return "Error: Division by zero";
