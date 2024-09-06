@@ -1,6 +1,6 @@
 // Function to add two numbers
 function add(a, b) {
-  // return a + b;
+   return a + b; //It will return the sum
 }
 
 // Function to subtract two numbers
