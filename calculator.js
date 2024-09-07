@@ -4,8 +4,8 @@ function add(a, b) {
 }
 
 //Function to multiply two numbers
-function multiply(a, b) {
-   return a * b;
+  function multiply(a, b) {
+   return a * b;//returns the product of a,b.
 
 }
 
