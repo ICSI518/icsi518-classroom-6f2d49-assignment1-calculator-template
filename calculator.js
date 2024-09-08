@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Function to multiply two numbers
 function multiply(a, b) {
   // return a * b;
@@ -9,26 +8,11 @@ function subtract(a, b) {
   // return a - b;
 }
 
-=======
->>>>>>> b28397f90dd0acd595d9f2ac2d163f83c254126a
 // Function to add two numbers
 function add(a, b) {
   // return a + b;
 }
 
-<<<<<<< HEAD
-=======
-// Function to subtract two numbers
-function subtract(a, b) {
-  // return a - b;
-}
-
-// Function to multiply two numbers
-function multiply(a, b) {
-  // return a * b;
-}
-
->>>>>>> b28397f90dd0acd595d9f2ac2d163f83c254126a
 // Function to divide two numbers
 function divide(a, b) {
   // if (b === 0) {
