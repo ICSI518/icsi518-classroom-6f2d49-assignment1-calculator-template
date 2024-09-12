@@ -6,7 +6,7 @@ function multiply(a, b) {
 
 // Function to add two numbers
 function add(a, b) {
-  return a + b;
+  return a + b; //returns the addition of 2 numbers
 }
 
 
