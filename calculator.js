@@ -4,6 +4,8 @@ function multiply(a, b) {
   // return a * b;
 }
 
+//Jainik and Harshini
+
 // Example usage
 const a = 10;
 const b = 5;
