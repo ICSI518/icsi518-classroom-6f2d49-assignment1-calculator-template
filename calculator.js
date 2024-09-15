@@ -2,7 +2,11 @@
 function add(a, b) {
   // return a + b;
 }
+<<<<<<< HEAD
 function subs(a, b) {
+=======
+function subtraction(a, b) {
+>>>>>>> 1c50da4 (Update subs to subtraction)
   return a - b;
 }
 
@@ -30,6 +34,10 @@ const b = 5;
 
 // Display results on console
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
+<<<<<<< HEAD
 console.log(`Subtraction: ${a} - ${b} = ${subs(a, b)}`);
+=======
+console.log(`Subtraction: ${a} - ${b} = ${subtraction(a, b)}`);
+>>>>>>> 1c50da4 (Update subs to subtraction)
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
 console.log(`Division: ${a} / ${b} = ${divide(a, b)}`);
