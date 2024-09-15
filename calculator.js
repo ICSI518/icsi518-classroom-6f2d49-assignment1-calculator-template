@@ -4,7 +4,7 @@ function add(a, b) {
 }
 
 // Function to subtract two numbers
-function subtract(a, b) {
+function subtraction(a, b) {
    return a - b;
 }
 
@@ -27,6 +27,6 @@ const b = 5;
 
 // Display results on console
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
-console.log(`Subtraction: ${a} - ${b} = ${subtract(a, b)}`);
+console.log(`Subtraction: ${a} - ${b} = ${subtraction(a, b)}`);
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
 console.log(`Division: ${a} / ${b} = ${divide(a, b)}`);
