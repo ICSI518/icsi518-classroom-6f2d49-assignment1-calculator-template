@@ -2,16 +2,14 @@
 function add(a, b) {
   // return a + b;
 }
-
-function subtract(a, b) {
+//Function to subtract two numbers
+function subtraction(a, b) {
   return a - b;
 }
 function multiply(a, b) {
   // return a * b;
 
 }
-
-// Function to add two numbers
 
 
 // Function to divide two numbers
@@ -28,6 +26,6 @@ const b = 5;
 
 // Display results on console
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
-console.log(`Subtraction: ${a} - ${b} = ${subtract(a, b)}`);
+console.log(`Subtraction: ${a} - ${b} = ${subtraction(a, b)}`);
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
 console.log(`Division: ${a} / ${b} = ${divide(a, b)}`);
