@@ -4,6 +4,7 @@ function subtract(a, b) {
 }
 
 // Function to add two numbers
+// Take 2 numbers as input and gives their sum  as output
 function add(a, b) {
   return a + b;
 }
