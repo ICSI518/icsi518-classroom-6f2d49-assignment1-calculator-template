@@ -1,4 +1,5 @@
-// Function to subtract two numbers
+// Function to subtract two 
+// Take 2 numbers as input and return (num1-num2) as output
 function subtract(a, b) {
   return a - b;
 }
