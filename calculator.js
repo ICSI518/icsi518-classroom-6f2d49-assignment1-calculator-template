@@ -1,17 +1,14 @@
-// Function to add two numbers
+
 function add(a, b) {
   // return a + b;
 }
-
-<<<<<<< HEAD
-
-//Function to subtract two numbers
-function subtract(a, b) {
-=======
-Function to subtract two numbers
 function sub(a, b) {
->>>>>>> 4ce127e (updated substraction method)
   return a - b;
+}
+
+// Function to add two numbers
+function add(a, b) {
+  // return a + b;
 }
 
 // Function to multiply two numbers
@@ -33,10 +30,7 @@ const b = 5;
 
 // Display results on console
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
-<<<<<<< HEAD
 console.log(`Subtraction: ${a} - ${b} = ${subtraction(a, b)}`);
-=======
 console.log(`Subtraction: ${a} - ${b} = ${sub(a, b)}`);
->>>>>>> 4ce127e (updated substraction method)
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
 console.log(`Division: ${a} / ${b} = ${divide(a, b)}`);
