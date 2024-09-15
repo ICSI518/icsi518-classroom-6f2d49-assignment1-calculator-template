@@ -11,9 +11,7 @@ function multiply(a, b) {
 }
 
 // Function to add two numbers
-function sub(a, b) {
-  // return a - b;
-}
+
 
 // Function to divide two numbers
 function divide(a, b) {
