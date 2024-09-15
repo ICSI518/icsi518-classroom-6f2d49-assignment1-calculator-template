@@ -3,7 +3,7 @@ function add(a, b) {
   // return a + b;
 }
 
-// Example usage
+// Example by dileep
 const a = 10;
 const b = 5;
 
