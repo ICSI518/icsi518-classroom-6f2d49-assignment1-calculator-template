@@ -23,7 +23,7 @@ app.use(cors({
 
 // mongodb+srv://Careersstudio:<password>@careersstudio.f2dpkbx.mongodb.net/?retryWrites=true&w=majority
 const url = "mongodb+srv://" + process.env.DB_USERNAME + ":" + process.env.DB_PASSWORD + "@cluster0.gmubo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-
+// database details
 
 console.log(url)
 // const url = "mongodb+srv://Careersstudio:"+process.env.DB_PASSWORD+"@careersstudio.f2dpkbx.mongodb.net/?retryWrites=true&w=majority"
